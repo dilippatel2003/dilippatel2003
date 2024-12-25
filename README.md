@@ -38,16 +38,16 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/ritikpatel5667/" target="_blank">
+  <a href="https://www.instagram.com/dilippatel182003/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://discord.com/ritik_patel" target="_blank">
+  <a href="https://discord.com/dilippatel2003" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="rp0944467@gmail.com" target="_blank">
+  <a href="patel2003dilip@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/ritik-patel-9630/" target="_blank">
+  <a href="https://www.linkedin.com/in/dilip-patel-b15ba5252/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
